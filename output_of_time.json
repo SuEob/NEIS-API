@@ -1,0 +1,374 @@
+{
+    "Mon": [
+        {
+            "office_of_education": "서울특별시교육청",
+            "school": "가락고등학교",
+            "day": "Mon",
+            "semester": "1",
+            "grade": "1",
+            "perio": "1",
+            "class_name": "01",
+            "class_content": "수학"
+        },
+        {
+            "office_of_education": "서울특별시교육청",
+            "school": "가락고등학교",
+            "day": "Mon",
+            "semester": "1",
+            "grade": "1",
+            "perio": "2",
+            "class_name": "01",
+            "class_content": "한국사"
+        },
+        {
+            "office_of_education": "서울특별시교육청",
+            "school": "가락고등학교",
+            "day": "Mon",
+            "semester": "1",
+            "grade": "1",
+            "perio": "3",
+            "class_name": "01",
+            "class_content": "통합과학"
+        },
+        {
+            "office_of_education": "서울특별시교육청",
+            "school": "가락고등학교",
+            "day": "Mon",
+            "semester": "1",
+            "grade": "1",
+            "perio": "4",
+            "class_name": "01",
+            "class_content": "국어"
+        },
+        {
+            "office_of_education": "서울특별시교육청",
+            "school": "가락고등학교",
+            "day": "Mon",
+            "semester": "1",
+            "grade": "1",
+            "perio": "5",
+            "class_name": "01",
+            "class_content": "기술·가정"
+        },
+        {
+            "office_of_education": "서울특별시교육청",
+            "school": "가락고등학교",
+            "day": "Mon",
+            "semester": "1",
+            "grade": "1",
+            "perio": "6",
+            "class_name": "01",
+            "class_content": "기술·가정"
+        }
+    ],
+    "Tue": [
+        {
+            "office_of_education": "서울특별시교육청",
+            "school": "가락고등학교",
+            "day": "Tue",
+            "semester": "1",
+            "grade": "1",
+            "perio": "1",
+            "class_name": "01",
+            "class_content": "국어"
+        },
+        {
+            "office_of_education": "서울특별시교육청",
+            "school": "가락고등학교",
+            "day": "Tue",
+            "semester": "1",
+            "grade": "1",
+            "perio": "2",
+            "class_name": "01",
+            "class_content": "영어"
+        },
+        {
+            "office_of_education": "서울특별시교육청",
+            "school": "가락고등학교",
+            "day": "Tue",
+            "semester": "1",
+            "grade": "1",
+            "perio": "3",
+            "class_name": "01",
+            "class_content": "한국사"
+        },
+        {
+            "office_of_education": "서울특별시교육청",
+            "school": "가락고등학교",
+            "day": "Tue",
+            "semester": "1",
+            "grade": "1",
+            "perio": "4",
+            "class_name": "01",
+            "class_content": "통합과학"
+        },
+        {
+            "office_of_education": "서울특별시교육청",
+            "school": "가락고등학교",
+            "day": "Tue",
+            "semester": "1",
+            "grade": "1",
+            "perio": "5",
+            "class_name": "01",
+            "class_content": "수학"
+        },
+        {
+            "office_of_education": "서울특별시교육청",
+            "school": "가락고등학교",
+            "day": "Tue",
+            "semester": "1",
+            "grade": "1",
+            "perio": "6",
+            "class_name": "01",
+            "class_content": "진로와 직업"
+        },
+        {
+            "office_of_education": "서울특별시교육청",
+            "school": "가락고등학교",
+            "day": "Tue",
+            "semester": "1",
+            "grade": "1",
+            "perio": "7",
+            "class_name": "01",
+            "class_content": "진로활동"
+        }
+    ],
+    "Wed": [
+        {
+            "office_of_education": "서울특별시교육청",
+            "school": "가락고등학교",
+            "day": "Wed",
+            "semester": "1",
+            "grade": "1",
+            "perio": "1",
+            "class_name": "01",
+            "class_content": "통합사회"
+        },
+        {
+            "office_of_education": "서울특별시교육청",
+            "school": "가락고등학교",
+            "day": "Wed",
+            "semester": "1",
+            "grade": "1",
+            "perio": "2",
+            "class_name": "01",
+            "class_content": "영어"
+        },
+        {
+            "office_of_education": "서울특별시교육청",
+            "school": "가락고등학교",
+            "day": "Wed",
+            "semester": "1",
+            "grade": "1",
+            "perio": "3",
+            "class_name": "01",
+            "class_content": "과학탐구실험"
+        },
+        {
+            "office_of_education": "서울특별시교육청",
+            "school": "가락고등학교",
+            "day": "Wed",
+            "semester": "1",
+            "grade": "1",
+            "perio": "4",
+            "class_name": "01",
+            "class_content": "음악"
+        },
+        {
+            "office_of_education": "서울특별시교육청",
+            "school": "가락고등학교",
+            "day": "Wed",
+            "semester": "1",
+            "grade": "1",
+            "perio": "5",
+            "class_name": "01",
+            "class_content": "통합과학"
+        },
+        {
+            "office_of_education": "서울특별시교육청",
+            "school": "가락고등학교",
+            "day": "Wed",
+            "semester": "1",
+            "grade": "1",
+            "perio": "6",
+            "class_name": "01",
+            "class_content": "수학"
+        },
+        {
+            "office_of_education": "서울특별시교육청",
+            "school": "가락고등학교",
+            "day": "Wed",
+            "semester": "1",
+            "grade": "1",
+            "perio": "7",
+            "class_name": "01",
+            "class_content": "통합사회"
+        }
+    ],
+    "Thu": [
+        {
+            "office_of_education": "서울특별시교육청",
+            "school": "가락고등학교",
+            "day": "Thu",
+            "semester": "1",
+            "grade": "1",
+            "perio": "1",
+            "class_name": "01",
+            "class_content": "수학"
+        },
+        {
+            "office_of_education": "서울특별시교육청",
+            "school": "가락고등학교",
+            "day": "Thu",
+            "semester": "1",
+            "grade": "1",
+            "perio": "2",
+            "class_name": "01",
+            "class_content": "체육"
+        },
+        {
+            "office_of_education": "서울특별시교육청",
+            "school": "가락고등학교",
+            "day": "Thu",
+            "semester": "1",
+            "grade": "1",
+            "perio": "3",
+            "class_name": "01",
+            "class_content": "통합사회"
+        },
+        {
+            "office_of_education": "서울특별시교육청",
+            "school": "가락고등학교",
+            "day": "Thu",
+            "semester": "1",
+            "grade": "1",
+            "perio": "4",
+            "class_name": "01",
+            "class_content": "통합과학"
+        },
+        {
+            "office_of_education": "서울특별시교육청",
+            "school": "가락고등학교",
+            "day": "Thu",
+            "semester": "1",
+            "grade": "1",
+            "perio": "5",
+            "class_name": "01",
+            "class_content": "영어"
+        },
+        {
+            "office_of_education": "서울특별시교육청",
+            "school": "가락고등학교",
+            "day": "Thu",
+            "semester": "1",
+            "grade": "1",
+            "perio": "6",
+            "class_name": "01",
+            "class_content": "국어"
+        }
+    ],
+    "Fri": [
+        {
+            "office_of_education": "서울특별시교육청",
+            "school": "가락고등학교",
+            "day": "Fri",
+            "semester": "1",
+            "grade": "1",
+            "perio": "1",
+            "class_name": "01",
+            "class_content": "한국사"
+        },
+        {
+            "office_of_education": "서울특별시교육청",
+            "school": "가락고등학교",
+            "day": "Fri",
+            "semester": "1",
+            "grade": "1",
+            "perio": "2",
+            "class_name": "01",
+            "class_content": "기술·가정"
+        },
+        {
+            "office_of_education": "서울특별시교육청",
+            "school": "가락고등학교",
+            "day": "Fri",
+            "semester": "1",
+            "grade": "1",
+            "perio": "3",
+            "class_name": "01",
+            "class_content": "체육"
+        },
+        {
+            "office_of_education": "서울특별시교육청",
+            "school": "가락고등학교",
+            "day": "Fri",
+            "semester": "1",
+            "grade": "1",
+            "perio": "4",
+            "class_name": "01",
+            "class_content": "음악"
+        },
+        {
+            "office_of_education": "서울특별시교육청",
+            "school": "가락고등학교",
+            "day": "Fri",
+            "semester": "1",
+            "grade": "1",
+            "perio": "5",
+            "class_name": "01",
+            "class_content": "자율활동"
+        },
+        {
+            "office_of_education": "서울특별시교육청",
+            "school": "가락고등학교",
+            "day": "Fri",
+            "semester": "1",
+            "grade": "1",
+            "perio": "6",
+            "class_name": "01",
+            "class_content": "자율활동"
+        }
+    ],
+    "Sat": [
+        {
+            "office_of_education": "서울특별시교육청",
+            "school": "가락고등학교",
+            "day": "Sat",
+            "semester": "1",
+            "grade": "1",
+            "perio": "1",
+            "class_name": "01",
+            "class_content": "토요휴업일"
+        },
+        {
+            "office_of_education": "서울특별시교육청",
+            "school": "가락고등학교",
+            "day": "Sat",
+            "semester": "1",
+            "grade": "1",
+            "perio": "2",
+            "class_name": "01",
+            "class_content": "토요휴업일"
+        },
+        {
+            "office_of_education": "서울특별시교육청",
+            "school": "가락고등학교",
+            "day": "Sat",
+            "semester": "1",
+            "grade": "1",
+            "perio": "3",
+            "class_name": "01",
+            "class_content": "토요휴업일"
+        },
+        {
+            "office_of_education": "서울특별시교육청",
+            "school": "가락고등학교",
+            "day": "Sat",
+            "semester": "1",
+            "grade": "1",
+            "perio": "4",
+            "class_name": "01",
+            "class_content": "토요휴업일"
+        }
+    ]
+}
