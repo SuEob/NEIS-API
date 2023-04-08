@@ -6,7 +6,7 @@ if __name__ == "__main__" :
     
     school_info = {
         "office_of_education": "서울특별시교육청",
-        "school": "가락고등학교"
+        "school": "가재울고등학교"
     }
     school_api.get_info(**school_info)
     school_api.get_data()

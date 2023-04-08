@@ -126,7 +126,8 @@ def get_data() :
         school_time_info.update({"AY": "2023"})
         school_time_info.update({"SEM": "1"})
         school_time_info.update({"GRADE": "1"})
-        school_time_info.update({"CLASS_NM": "01"})
+        school_time_info.update({"CLASS_NM": "1"})
+
 
 # 급식 식단 정보
 # @get_data
@@ -180,14 +181,19 @@ def time_table_service() :
     URL = school_url["base_url"] + school_url["time_sub_url"]
 
     response = get(URL, school_time_info)
-
+    
     if (response.status_code != 200) :
         print("Can't request website")
         print("This response code is ", response.status_code)
     else :
         print("Sucess!")
         soup = BeautifulSoup(response.text, "html.parser")
-        
+
+        if (soup.find("code").text == "INFO-200") :
+            school_time_info.update({"CLASS_NM": f"{'0'}1"})
+            response = get(URL, school_time_info)
+            soup = BeautifulSoup(response.text, "html.parser")
+
         total_cnt = int(soup.find("list_total_count").text)
 
         date_list = soup.find_all("all_ti_ymd")
